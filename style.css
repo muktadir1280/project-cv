@@ -68,13 +68,13 @@ hr {
 }
 
 .left-div {
-    width: 40%;
+    width: 35%;
     float: left;
     margin: 20px 0;
 }
 
 .right-div {
-    width: 60%;
+    width: 65%;
     float: left;
 }
 
@@ -90,4 +90,14 @@ hr {
 
 ul {
     margin-left: 18px;
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    float: right;
+    width: 50%;
 }
