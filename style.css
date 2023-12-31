@@ -39,27 +39,48 @@ h5,
 h6 {
     color: #11999e;
 }
-.header-contact{
+
+.header-contact {
     float: right;
     padding: 20px;
 }
 
-.header-contact a{
+.header-contact a {
     color: teal;
     font-size: 20px;
     text-decoration: none;
     font-weight: bold;
 }
-.header-contact a:hover{
+
+.header-contact a:hover {
     background-color: tomato;
 }
-.clear-div{
+
+.clear-div {
     clear: both;
 }
 
-hr{
+hr {
     margin: 20px auto;
     border: solid black 5px;
     width: 100%;
+    border-bottom: none;
+}
+
+.left-div {
+    width: 40%;
+    float: left;
+    margin: 20px 0;
+}
+
+.right-div {
+    width: 60%;
+    float: left;
+}
+
+.common-hr {
+    width: 100%;
+    border: 1px solid black;
+    margin: 120px auto;
     border-bottom: none;
 }
