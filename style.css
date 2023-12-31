@@ -81,6 +81,13 @@ hr {
 .common-hr {
     width: 100%;
     border: 1px solid black;
-    margin: 120px auto;
     border-bottom: none;
+}
+
+.common-h3 {
+    color: black;
+}
+
+ul {
+    margin-left: 18px;
 }
