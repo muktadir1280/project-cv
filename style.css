@@ -101,3 +101,32 @@ ul {
     float: right;
     width: 50%;
 }
+
+.footer {
+    background-color: turquoise;
+    min-height: 100px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.footer a {
+    color: black;
+    height: auto;
+    width: 100%;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.footer p {
+    color: black;
+    height: auto;
+    width: 100%;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.footer a:hover {
+    color: tomato;
+}
